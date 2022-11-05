@@ -10,6 +10,10 @@ hr{
   width: 5%;
   }
 
+img:hover{
+  background-color: #D61C4E;
+}
+
 h1{
   color: #D61C4E;
 }
